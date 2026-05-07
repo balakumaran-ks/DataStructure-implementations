@@ -1,0 +1,2 @@
+Implement the Stack data structure in java and raise a PR
+remember to follow best practices(comments / variable names / code structure)
